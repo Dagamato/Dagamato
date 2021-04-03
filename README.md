@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Dagamato
+- 👀 I’m interested in ML,FRONT-END...
+- 🌱 I’m currently learning Js...
+- 📫 How to reach me info@webrun.net...
+
+<!---
+Dagamato/Dagamato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
